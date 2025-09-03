@@ -210,4 +210,4 @@ A: Theoretically, all yes.
 
 ## Installation help
 
-Go read the original SM64 repo README.md
+[Dedicated wiki page](https://github.com/HackerN64/HackerSM64/wiki/Installing-HackerSM64)
