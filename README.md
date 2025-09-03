@@ -195,7 +195,7 @@ To switch to no compression, run make with the ``COMPRESS=uncomp`` argument.
 
 ## FAQ
 
-[Dedicated FAQ page](faq.md)
+[Dedicated FAQ page](FAQ.md)
 
 ## Installation help
 
