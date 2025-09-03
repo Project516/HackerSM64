@@ -8,11 +8,11 @@ This repo requires BOTH a US ROM and a JP ROM in order to build. Place baserom.u
 
 This repo needs gcc in order to be able to build it. To install it, run `sudo apt install gcc-mips-linux-gnu`
 
-**Credits**
+## Credits
 
 [Dedicated credits page](CREDITS.md)
 
-## FEATURES 
+## Features
 
 [Dedicated features page](FEATURES.md)
 
