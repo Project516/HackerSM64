@@ -11,28 +11,8 @@ This repo needs gcc in order to be able to build it. To install it, run `sudo ap
 This is a fork of the ultrasm64 repo by CrashOveride which includes the following commonly used patches (patches marked with `*` are toggleable in the config files):
 
 **Credits**
-- **ArcticJaguar725**: Most audio configuration and layout changes, colored ia4 text, floombas, various bugfixes, and more
-- **CowQuack**: Adjustable skybox sizes, area-specific skybox function
-- **thecozies**: Water surface types, general maintenance, and time
-- **MrComit**: General use object defines, JUMP_KICK_FIX
-- **aglab2**: Bugfixes (particularly puppycam), refactor stuff
-- **someone2639**: math.s and crash screen disam, stack trace, map packing, shiftable segments 2, S2DEX engine
-- **Arthurtilly**: Platform Displacement 2
-- **Fazana**: PuppyLib, ucode swapping, audio load time optimisations (with Arctic), general hacker qol improvements, visual debug
-- **Reonu**: Starting the project/repo, widescreen, reonucam, various defines for hacker QoL
-- **JoshDuMan**: Decomp guy, general assistance
-- **Arceveti**: Silhouette, shadow optimisation, better hanging, breath meter, 4 controller support
-- **axollyon**: Console testing, bugfixes, idea-guying, and had a hand in silhouettes
-- **Wiseguy**:  World scale reimplementation, silhouette, graph node optimisations, instant input patch, cake screen fix, segmented code support, and various optimizations/fixes
-- **Kaze**: Graph node optimisations, automatic optimal collision distance
-- **Pyro Jay**: Texture improvements, repo banner art, some QoL stuff
-- **CrashOveride**: creating the [ultrasm64](https://github.com/CrashOveride95/ultrasm64) repo
-- **falcobuster**: Original coordinate overflow fix (world scale), ASM version of extended bounds, emulator detector
-- **anonymous_moose**: porting falco's extended bounds to decomp
-- **tuxlovesyou**: `LOAD_MIO0_TEXTURE` macro and moral support
-- **devwizard**: the PJ64 pre-v3.0 detection part of the emulator detector
 
-Thanks to Frame#5375 and AloXado320 for also helping with silhouette stuff
+[Dedicated credits page](CREDITS.md)
 
 **Lighting Engine by Wiseguy**
 - Lighting Engine is available on a separate branch ([base/lighting-engine](https://github.com/Reonu/HackerSM64/tree/base/lighting-engine)). Instructions on how to use it are in the readme of that branch.
